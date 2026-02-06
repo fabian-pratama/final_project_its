@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+
+# Optional: log files
+*.log
