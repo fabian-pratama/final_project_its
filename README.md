@@ -10,7 +10,6 @@ Aplikasi kasir kantin sederhana menggunakan:
 - Master Kategori
 - Master Menu
 - Transaksi Penjualan
-- Laporan Penjualan
 - Dashboard
 
 ## 🛠️ Teknologi
